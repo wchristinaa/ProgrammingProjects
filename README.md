@@ -3,6 +3,7 @@ Graphic based simulation in which you purchase something from a vending machine.
 
 ## GUI Image #1: start screen
 ## GUI Image #2: gameplay
+![vending machine] (images/pixil-frame-0 (4).png)
 ## GUI Image #3: game over screem
 
 ## Class Diagram
