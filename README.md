@@ -1,5 +1,5 @@
-# Programming Project #1:
-Description of 1st project in detal.
+# Programming Project #1: Vending Machine
+Graphic based simulation in which you purchase something from a vending machine.
 
 ## GUI Image #1: start screen
 ## GUI Image #2: gameplay
