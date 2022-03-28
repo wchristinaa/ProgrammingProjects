@@ -6,7 +6,7 @@ Graphic based simulation in which you purchase something from a vending machine.
 ## GUI Image #2: gameplay
 ![vending machine](images/vendingmachine.png)
 ## GUI Image #3: game over screem
-
+![end](images/exit.png)
 ## Class Diagram
 
 
