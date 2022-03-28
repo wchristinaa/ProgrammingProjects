@@ -8,7 +8,7 @@ Graphic based simulation in which you purchase something from a vending machine.
 ## GUI Image #3: game over screem
 ![end](images/exit.png)
 ## Class Diagram
-
+![class](images/machineclasses.png)
 
 # Programming Project #2:
 Description of 1st project in detal.
