@@ -1,5 +1,5 @@
 # Programming Project #1: Vending Machine 
-(Now renamed to Gachany, the Gacha game)
+(Now renamed to Gachnya, the Gacha game)
 Graphic based simulation in which you purchase something from a Gacha Machine
 
 ## GUI Image #1: start screen
@@ -9,13 +9,4 @@ Graphic based simulation in which you purchase something from a Gacha Machine
 ## GUI Image #3: game over screem
 ![end](images/exit.png)
 ## Class Diagram
-![class](images/machineclasses.png)
-
-# Programming Project #2:
-Description of 1st project in detal.
-
-## GUI Image #1:
-## GUI Image #2:
-## GUI Image #3:
-
-## Class Diagram
+![class](images/gachadiagram.png)
