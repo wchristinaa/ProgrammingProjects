@@ -1,5 +1,6 @@
-# Programming Project #1: Vending Machine
-Graphic based simulation in which you purchase something from a vending machine.
+# Programming Project #1: Vending Machine 
+(Now renamed to Gachany, the Gacha game)
+Graphic based simulation in which you purchase something from a Gacha Machine
 
 ## GUI Image #1: start screen
 ![start](images/start.png)
