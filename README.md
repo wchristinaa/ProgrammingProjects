@@ -1,6 +1,7 @@
-# Programming Project #1: Vending Machine 
+# Programming Project #1: Gyacha
 (Now renamed to Gachnya, the Gacha game)
-Graphic based simulation in which you purchase something from a Gacha Machine
+Text based gacha machine with money earning implimentation
+
 
 ## GUI Image #1: start screen
 ![start](images/start.png)
