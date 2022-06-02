@@ -4,9 +4,9 @@ Text based gacha machine with money earning implimentation
 
 
 ## GUI Image #1: start screen
-![start](images/start.png)
+![start](images/2022-06-01 (2).png)
 ## GUI Image #2: gameplay
-![vending machine](images/vendingmachine.png)
+![vending machine](images/2022-06-01 (2).png)
 ## GUI Image #3: game over screem
 ![end](images/exit.png)
 ## Class Diagram
